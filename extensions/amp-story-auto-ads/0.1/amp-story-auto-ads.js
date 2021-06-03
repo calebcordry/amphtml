@@ -55,6 +55,7 @@ const TAG = 'amp-story-auto-ads';
 const AD_TAG = 'amp-ad';
 
 /** @const {string} */
+// some comment.
 const MUSTACHE_TAG = 'amp-mustache';
 
 /** @enum {string} */
